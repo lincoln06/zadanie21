@@ -1,0 +1,14 @@
+C:\Users\macie\dev\zadanie21\zadanie21\bin\Debug\netcoreapp3.1\zadanie21.exe
+C:\Users\macie\dev\zadanie21\zadanie21\bin\Debug\netcoreapp3.1\zadanie21.deps.json
+C:\Users\macie\dev\zadanie21\zadanie21\bin\Debug\netcoreapp3.1\zadanie21.runtimeconfig.json
+C:\Users\macie\dev\zadanie21\zadanie21\bin\Debug\netcoreapp3.1\zadanie21.runtimeconfig.dev.json
+C:\Users\macie\dev\zadanie21\zadanie21\bin\Debug\netcoreapp3.1\zadanie21.dll
+C:\Users\macie\dev\zadanie21\zadanie21\bin\Debug\netcoreapp3.1\zadanie21.pdb
+C:\Users\macie\dev\zadanie21\zadanie21\obj\Debug\netcoreapp3.1\zadanie21.csproj.AssemblyReference.cache
+C:\Users\macie\dev\zadanie21\zadanie21\obj\Debug\netcoreapp3.1\zadanie21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macie\dev\zadanie21\zadanie21\obj\Debug\netcoreapp3.1\zadanie21.AssemblyInfoInputs.cache
+C:\Users\macie\dev\zadanie21\zadanie21\obj\Debug\netcoreapp3.1\zadanie21.AssemblyInfo.cs
+C:\Users\macie\dev\zadanie21\zadanie21\obj\Debug\netcoreapp3.1\zadanie21.csproj.CoreCompileInputs.cache
+C:\Users\macie\dev\zadanie21\zadanie21\obj\Debug\netcoreapp3.1\zadanie21.dll
+C:\Users\macie\dev\zadanie21\zadanie21\obj\Debug\netcoreapp3.1\zadanie21.pdb
+C:\Users\macie\dev\zadanie21\zadanie21\obj\Debug\netcoreapp3.1\zadanie21.genruntimeconfig.cache
